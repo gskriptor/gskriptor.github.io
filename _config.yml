@@ -5,7 +5,7 @@ description: "Art and tech blog."
 baseurl: ""
 url: "http://carte-noire.jacobtomlinson.co.uk/"
 title_description: "This is where the magic happens"
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: "https://en.gravatar.com/userimage/153884805/ab1b51808f3eecfb534f99d9e2f47852.jpg"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/gskriptor
